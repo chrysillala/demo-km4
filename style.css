@@ -1,3 +1,16 @@
 body {
   background-color: aquamarine;
 }
+
+#description-box p {
+  color: cadetblue;
+  font-size: 100px;
+}
+
+.text-blue {
+  color: blue;
+}
+
+.text-yellow {
+  color: yellow;
+}
